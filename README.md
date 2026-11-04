@@ -302,10 +302,10 @@ ________________________________________________________________________________
   <br/>
 
   <a href="https://github.com/Ashvani-1310">
-    <img src="https://img.shields.io/badge/GitHub-Ashvani--13-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Ashvani--1310-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/ashvani-ramgude-764007285">
+  <a href="https://www.linkedin.com/in/ashvani-ramgude-764007285/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
