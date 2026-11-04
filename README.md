@@ -11,18 +11,18 @@ Hello! I'm Ashvani 👋
 I'm a  Computer Engineering student, interested in building useful software and solving real-world problems through technology.
 I enjoy learning how applications work from frontend to backend, exploring new tools, and turning ideas into practical projects.
 
-•	🎓 Completed a Bachelor's degree in Computer Engineering
-•	💻 Interested in Software Engineering, Full Stack Development and DevOps
-•	☕ Practising Java, Python and problem solving
-•	🌐 Exploring backend development with  Spring
-•	🔧 Good knowledge of Git, GitHub and Maven
-•	☁️ Exploring AWS (EC2), Linux and Jenkins
-•	🤖 Interested in AI-powered applications and prompt engineering
-•	🚀 Always learning, building and improving
+•	🎓 Completed a Bachelor's degree in Computer Engineering<br>
+•	💻 Interested in Software Engineering, Full Stack Development and DevOps<br>
+•	☕ Practising Java, Python and problem solving<br>
+•	🌐 Exploring backend development with  Spring<br>
+•	🔧 Good knowledge of Git, GitHub and Maven<br>
+•	☁️ Exploring AWS (EC2), Linux and Jenkins<br>
+•	🤖 Interested in AI-powered applications and prompt engineering<br>
+•	🚀 Always learning, building and improving<br>
 
 </td> <td width="42%" valign="top">
-👩‍💻Ashvani
-   Fresher
+👩‍💻<b>Ashvani</b>
+  
 
 
 interests:
@@ -52,32 +52,32 @@ My approach: Stay curious, understand the fundamentals, build consistently, and 
 _____________________________________________________________________________________________________________________
 
 <div align="center">
-🛠️ TECH STACK
-Technologies and tools I use or am currently learning.
+🛠️ TECH STACK<br>
+Technologies and tools I use or am currently learning.<br>
 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark&perline=4" alt="Programming language skill icons"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark&perline=4" alt="Programming language skill icons"/><br>
   
 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&theme=dark&perline=6" alt="Frontend technology skill icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&theme=dark&perline=6" alt="Frontend technology skill icons"/><br>
 
 Backend Development & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql&theme=dark&perline=4" alt="Backend and database skill icons"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql&theme=dark&perline=4" alt="Backend and database skill icons"/><br>
 
 DevOps, Cloud & Build Tools
-<img src="https://skillicons.dev/icons?i=git,github,maven,jenkins,linux,aws&theme=dark&perline=6" alt="DevOps and cloud skill icons"/>
+<img src="https://skillicons.dev/icons?i=git,github,maven,jenkins,linux,aws&theme=dark&perline=6" alt="DevOps and cloud skill icons"/><br>
 
 Development Tools
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,postman&theme=dark" alt="Development tools"/></div>
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,postman&theme=dark" alt="Development tools"/></div><br>
 
-Area	Technologies
-Programming:	Java, Python, JavaScript
-Frontend:	HTML, CSS, React.js, Tailwind CSS, Bootstrap, Vite
-Backend:	 Java Servlets, JSP, Spring (learning)
-Database:	Oracle, MySQL, SQL
-Version: Control & Build	Git, GitHub, Maven
-DevOps & Cloud (Learning):	Jenkins, Linux, AWS EC2
-Development Tools:	VS Code, Eclipse, MySQL Workbench, SQL Plus
-Visualization:	Recharts, Chart.js
+<b>Area	Technologies</b><br>
+Programming:	Java, Python, JavaScript<br>
+Frontend:	HTML, CSS, React.js, Tailwind CSS, Bootstrap, Vite<br>
+Backend:	 Java Servlets, JSP, Spring (learning)<br>
+Database:	Oracle, MySQL, SQL<br>
+Version: Control & Build	Git, GitHub, Maven<br>
+DevOps & Cloud (Learning):	Jenkins, Linux, AWS EC2<br>
+Development Tools:	VS Code, Eclipse, MySQL Workbench, SQL Plus<br>
+Visualization:	Recharts, Chart.js<br>
 _____________________________________________________________________________________________________________________
 <div align="center">
 🚀 FEATURED PROJECTS
