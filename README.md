@@ -3,6 +3,7 @@
 _____________________________________________________________________________________________________________________
 <div align="center">
 ✨ ABOUT ME
+  
 <sub> • Curious mind   • Practical builder   • Continuous learner</sub>
 </div><table> <tr> <td width="58%" valign="top">
   
@@ -20,9 +21,9 @@ I enjoy learning how applications work from frontend to backend, exploring new t
 •	🚀 Always learning, building and improving
 
 </td> <td width="42%" valign="top">
-👩‍💻 Developer Snapshot
-name: Ashvani
-education: 
+👩‍💻Ashvani
+   Fresher
+
 
 interests:
   - Software Development
@@ -42,40 +43,48 @@ currently_learning:
   - Backend Development
   - Problem Solving
 
-goal: >
+goal: 
   Become a skilled software
   engineer and a strong
   communicator.
 </td> </tr> </table>
 My approach: Stay curious, understand the fundamentals, build consistently, and keep improving one step at a time.
-________________________________________
+_____________________________________________________________________________________________________________________
+
 <div align="center">
 🛠️ TECH STACK
 Technologies and tools I use or am currently learning.
 Programming Languages
 <img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark&perline=4" alt="Programming language skill icons"/>
+  
 Frontend Development
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&theme=dark&perline=6" alt="Frontend technology skill icons"/>
+
 Backend Development & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql&theme=dark&perline=4" alt="Backend and database skill icons"/>
+
 DevOps, Cloud & Build Tools
 <img src="https://skillicons.dev/icons?i=git,github,maven,jenkins,linux,aws&theme=dark&perline=6" alt="DevOps and cloud skill icons"/>
+
 Development Tools
 <img src="https://skillicons.dev/icons?i=vscode,eclipse,postman&theme=dark" alt="Development tools"/></div>
+
 Area	Technologies
-Programming	Java, Python, JavaScript
-Frontend	HTML, CSS, React.js, Tailwind CSS, Bootstrap, Vite
-Backend	 Java Servlets, JSP, Spring (learning)
-Database	Oracle, MySQL, SQL
-Version Control & Build	Git, GitHub, Maven
-DevOps & Cloud (Learning)	Jenkins, Linux, AWS EC2
-Development Tools	VS Code, Eclipse, MySQL Workbench, SQL Plus
-Visualization	Recharts, Chart.js
-________________________________________
+Programming:	Java, Python, JavaScript
+Frontend:	HTML, CSS, React.js, Tailwind CSS, Bootstrap, Vite
+Backend:	 Java Servlets, JSP, Spring (learning)
+Database:	Oracle, MySQL, SQL
+Version: Control & Build	Git, GitHub, Maven
+DevOps & Cloud (Learning):	Jenkins, Linux, AWS EC2
+Development Tools:	VS Code, Eclipse, MySQL Workbench, SQL Plus
+Visualization:	Recharts, Chart.js
+_____________________________________________________________________________________________________________________
 <div align="center">
 🚀 FEATURED PROJECTS
+  
 <sub>A selection of academic and practice projects</sub>
 </div><table> <tr> <td width="50%" valign="top">
+  
 🧠 AI-Driven Adaptive Aptitude Testing Framework
 A web-based learning platform designed to personalize aptitude practice based on student performance.
 Key features
@@ -118,9 +127,11 @@ Tech: Add the exact technologies used in your repository.
 </td> </tr> </table><div align="center"><a href="https://github.com/Ashvani-13?tab=repositories"> <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/> </a></div>
 _____________________________________________________________________________________________________________________
 <div align="center">
+  
 📊 GITHUB ANALYTICS
 <sub>Live profile statistics • Language breakdown • Contribution activity</sub>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashvani-13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvani-13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashvani-13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvani-1310&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
 <img width="70%" src="https://streak-stats.demolab.com?user=Ashvani-1310&theme=tokyonight&background=0B1020&ring=67E8F9&fire=818CF8&currStreakLabel=67E8F9&hide_border=true" alt="GitHub contribution streak"/>
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashvani-1310&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/></div>
 _____________________________________________________________________________________________________________________
@@ -128,17 +139,28 @@ ________________________________________________________________________________
 ☁️ DEVOPS & CLOUD JOURNEY
 I'm also interested in DevOps and learning how development, automation and cloud infrastructure work together.
 Tools I have good knowledge of:
-<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Maven-Build%20Tool-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
+<img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
+<img src="https://img.shields.io/badge/Maven-Build%20Tool-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+
+  
 Currently learning and exploring:
-<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/> <img src="https://img.shields.io/badge/Linux-Operating%20System-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2"/>
+<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/> 
+<img src="https://img.shields.io/badge/Linux-Operating%20System-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> 
+<img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2"/>
+
+
 Other Learning Goals
-<img src="https://img.shields.io/badge/Java-Backend%20Development-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java backend development"/> <img src="https://img.shields.io/badge/Node.js-Backend%20Development-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Problem%20Solving-Practice-2563EB?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem solving"/> <img src="https://img.shields.io/badge/AI-Prompt%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI and prompt engineering"/></div>
+<img src="https://img.shields.io/badge/Java-Backend%20Development-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java backend development"/> 
+<img src="https://img.shields.io/badge/Node.js-Backend%20Development-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> 
+<img src="https://img.shields.io/badge/Problem%20Solving-Practice-2563EB?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem solving"/> 
+<img src="https://img.shields.io/badge/AI-Prompt%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI and prompt engineering"/></div>
 _____________________________________________________________________________________________________________________
 <div align="center">
 🤝 LET'S CONNECT
 <sub>Open to learning, sharing ideas and collaborating on projects</sub>
 I'm interested in connecting with fellow developers, learning from the community, and collaborating on meaningful software projects.
-<!-- Add your real profile URLs below. Remove any link you do not want to display. --> <a href="https://github.com/Ashvani-13"> <img src="https://img.shields.io/badge/GitHub-Ashvani--13-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="www.linkedin.com/in/ashvani-ramgude-764007285 "> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:ashvaniramgude03@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
+<!-- Add your real profile URLs below. Remove any link you do not want to display. --> <a href="https://github.com/Ashvani-13"> <img src="https://img.shields.io/badge/GitHub-Ashvani--1310-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="www.linkedin.com/in/ashvani-ramgude-764007285 "> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:ashvaniramgude03@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
 
 “Great things are built one line of code at a time.”
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:1D4ED8,100:111827" width="100%" alt="Footer banner"/></div>
