@@ -70,7 +70,7 @@ ________________________________________________________________________________
 <h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" alt="Programming Languages"/>
 </p>
 
 <br/>
@@ -90,7 +90,7 @@ ________________________________________________________________________________
 <h3 align="center">⚙️ Backend Development & Database</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql&theme=dark" alt="Backend and Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=spring,mysql,oracle,jdbc&theme=dark" alt="Backend and Database Technologies"/>
 </p>
 
 <br/>
@@ -107,11 +107,30 @@ ________________________________________________________________________________
 
 <!-- DEVELOPMENT TOOLS -->
 
+
+<!-- DEVELOPMENT TOOLS -->
+
 <h3 align="center">🧰 Development Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,postman&theme=dark" alt="Development Tools"/>
+  <img
+    src="https://skillicons.dev/icons?i=vscode,eclipse,mysql,spring,oracle&theme=dark"
+    alt="Development Tools"
+  />
 </p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/>
+
+  <img src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Tool Suite"/>
+
+  <img src="https://img.shields.io/badge/Oracle_SQL%2APlus-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL Plus"/>
+
+</p>
+
+
+
 
 <br/>
 
@@ -124,7 +143,7 @@ Backend:	 Java Servlets, JSP, Spring (learning)<br>
 Database:	Oracle, MySQL, SQL<br>
 Version: Control & Build	Git, GitHub, Maven<br>
 DevOps & Cloud (Learning):	Jenkins, Linux, AWS EC2<br>
-Development Tools:	VS Code, Eclipse, MySQL Workbench, SQL Plus<br>
+Development Tools:	VS Code, Eclipse, MySQL Workbench, SQL Plus, Spring Tool Suite<br>
 Visualization:	Recharts, Chart.js<br>
 _____________________________________________________________________________________________________________________
 <div align="center">
@@ -177,26 +196,31 @@ ________________________________________________________________________________
 
 <!-- GITHUB ANALYTICS SECTION -->
 
+
+<!-- GITHUB ANALYTICS -->
+
 <hr/>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  Live profile statistics • Language breakdown • Contribution activity
+  My GitHub statistics, programming languages and contribution activity.
 </p>
 
 <br/>
 
 <div align="center">
 
-  <!-- GitHub Statistics -->
+  <!-- GitHub Statistics: All-Time Commits -->
+
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Ashvani-1310&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=Ashvani-1310&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     height="180"
-    alt="GitHub Statistics"
+    alt="GitHub All-Time Statistics"
   />
 
   <!-- Most Used Languages -->
+
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ashvani-1310&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
@@ -205,7 +229,8 @@ ________________________________________________________________________________
 
   <br/><br/>
 
-  <!-- GitHub Streak -->
+  <!-- Contribution Streak -->
+
   <img
     src="https://streak-stats.demolab.com?user=Ashvani-1310&theme=tokyonight&hide_border=true"
     width="75%"
