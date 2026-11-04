@@ -25,49 +25,97 @@ I enjoy learning how applications work from frontend to backend, exploring new t
   
 
 
-interests:
+<b>Interests:</b>
   - Software Development
   - DevOps and Cloud
   - Full Stack Web Development
   - Backend Development
   
 
-good_knowledge:
+<b>Good_knowledge:</b>
   - Git and GitHub
   - Maven
 
-currently_learning:
+<b>Currently_learning:</b>
   - Jenkins
   - Linux
   - AWS EC2
   - Backend Development
   - Problem Solving
 
-goal: 
+<b>Goal:</b> 
   Become a skilled software
   engineer and a strong
   communicator.
 </td> </tr> </table>
+
 My approach: Stay curious, understand the fundamentals, build consistently, and keep improving one step at a time.
 _____________________________________________________________________________________________________________________
 
-<div align="center">
-🛠️ TECH STACK<br>
-Technologies and tools I use or am currently learning.<br>
-Programming Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark&perline=4" alt="Programming language skill icons"/><br>
-  
-Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&theme=dark&perline=6" alt="Frontend technology skill icons"/><br>
 
-Backend Development & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql&theme=dark&perline=4" alt="Backend and database skill icons"/><br>
+<!-- TECH STACK SECTION -->
 
-DevOps, Cloud & Build Tools
-<img src="https://skillicons.dev/icons?i=git,github,maven,jenkins,linux,aws&theme=dark&perline=6" alt="DevOps and cloud skill icons"/><br>
+<hr/>
 
-Development Tools
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,postman&theme=dark" alt="Development tools"/></div><br>
+<h2 align="center">🛠️ TECH STACK</h2>
+
+<p align="center">
+  Technologies and tools I use or am currently learning.
+</p>
+
+<br/>
+
+<!-- PROGRAMMING LANGUAGES -->
+
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark" alt="Programming Languages"/>
+</p>
+
+<br/>
+
+<!-- FRONTEND DEVELOPMENT -->
+
+<h3 align="center">🎨 Frontend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&theme=dark" alt="Frontend Technologies"/>
+</p>
+
+<br/>
+
+<!-- BACKEND DEVELOPMENT & DATABASE -->
+
+<h3 align="center">⚙️ Backend Development & Database</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql&theme=dark" alt="Backend and Database Technologies"/>
+</p>
+
+<br/>
+
+<!-- DEVOPS, CLOUD & BUILD TOOLS -->
+
+<h3 align="center">☁️ DevOps, Cloud & Build Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,maven,jenkins,linux,aws&theme=dark" alt="DevOps and Cloud Tools"/>
+</p>
+
+<br/>
+
+<!-- DEVELOPMENT TOOLS -->
+
+<h3 align="center">🧰 Development Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,postman&theme=dark" alt="Development Tools"/>
+</p>
+
+<br/>
+
+<hr/>
 
 <b>Area	Technologies</b><br>
 Programming:	Java, Python, JavaScript<br>
@@ -129,8 +177,6 @@ ________________________________________________________________________________
 
 <!-- GITHUB ANALYTICS SECTION -->
 
-<hr/>
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
@@ -142,14 +188,14 @@ ________________________________________________________________________________
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ashvani-1310&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Ashvani-1310&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
     alt="GitHub Statistics"
   />
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvani-1310&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
+    height="180"
     alt="Most Used Languages"
   />
 
@@ -157,7 +203,7 @@ ________________________________________________________________________________
 
   <img
     src="https://streak-stats.demolab.com?user=Ashvani-1310&theme=tokyonight&hide_border=true"
-    width="70%"
+    width="75%"
     alt="GitHub Contribution Streak"
   />
 
@@ -166,14 +212,10 @@ ________________________________________________________________________________
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Ashvani-1310&theme=tokyo-night&hide_border=true"
     width="95%"
-    alt="GitHub Contribution Activity Graph"
+    alt="GitHub Contribution Activity"
   />
 
 </div>
-
-<br/>
-<hr/>
-
 
 _____________________________________________________________________________________________________________________
 
